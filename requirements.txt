@@ -1,0 +1,7 @@
+openai
+langchain
+langchain_text_splitters
+pymilvus
+streamlit
+python-dotenv
+numpy
